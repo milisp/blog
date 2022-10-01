@@ -1,0 +1,6 @@
+[submodule "milispBlog/public"]
+	path = milispBlog/public
+	url = git@github.com:milisp/milisp.github.io.git
+[submodule "milispBlog/themes/ananke"]
+	path = milispBlog/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
